@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="Ra@M!POjt4a3%[DB6f%*" x="0" y="0"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_print_message" id="Ubv45ycLnx6rbRHY{GK*"><value name="text"><shadow type="text" id="|^7WLDa{1|K4Tag]GxG#"><field name="TEXT">Baghlaf </field></shadow></value><next><block type="basic_show_icon" id=";u:QPgq9lG!ad5AzW;C3"><field name="i">IconNames.Heart</field></block></next></block></statement></block><block type="device_button_event" id="aSBlmPrGOjcL[(j^:65;" x="4" y="213"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="6MD7V~eCU;pkr?Z,:}`C"><value name="text"><shadow type="text" id="d[ZU],PSI~6jK8^=tq0b"><field name="TEXT">Mayar </field></shadow></value><next><block type="device_show_leds" id="oA-i^)M#(ux.R2W9%Hb0"><field name="LEDS">`
+        # . . . # 
+        # # . # # 
+        # . # . # 
+        # . . . # 
+        # . . . #
+        `</field></block></next></block></statement></block><block type="device_gesture_event" id="(yGs4rKSAeve==gm]*(|" x="43" y="581"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_number" id="R!(U4#]E^,tnxM)EzTu*"><value name="number"><shadow type="math_number" id=";EA]xOl~58bdbXceZK]["><field name="NUM">5</field></shadow></value></block></statement></block></xml>
